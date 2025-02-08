@@ -1,5 +1,9 @@
 # CP3407 2025 - "My Clean" Group Project
 
+This repository is for the JCU CP3407 Advanced Software Engineering, group assignment project 
+
+---
+
 ## Team
 
 1. Luke Prasser
@@ -7,43 +11,38 @@
 3. Zane 
 4. Corey Grainger
 
+---
+
 ## Project planning
 
-### User Stories
+### + User Stories / Initial Product Backlog
 
-[User Stories](./user_stories/user_stories)
+[User Stories](./User_Stories)
 
-### Total Time to Complete
+### + Total Time to Complete
 
 Total: 2 days
 
+---
 
-## Iteration 1 [duration 3-4 weeks], add your start and end dates 
+## Project Iterations
 
-* Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
+### + Iteration 1 
 
-5. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-6. ...
+[Iteration 1 Details](./Iteration_1.md)
+- 4 weeks (1 day per week, per team member)
+- 11/02/2025 -> 11/03/2025
+- Total: 4 working days 
 
-Total: YY days
+### + Iteration 2
 
+[Iteration 2 Details](./Iteration_2.md)
+- 3 weeks (1 day per week, per team member)
+- 11/03/2025 -> 01/04/2025
+- Total: 3 working days
 
-### Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
-7. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-8. ...
+### + Future Iteration
+[Future Iteration Details](./Iteration_Future.md)
+- *Unknown times / dates*
 
-Total: YY days
-
-### Not enough time/developers: 
-9. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-10. ...
-
-Total: YY days
-
-# Actual iterations
-11. [Iteration-1](./iteration_1.md)
-12. [Iteration-2](./iteration_2.md)
 
