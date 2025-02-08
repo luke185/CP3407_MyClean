@@ -1,29 +1,118 @@
-# Actual iteration-2 board, (see chapters 3 and 4), add your start and end dates 
+# 01 - Viewing and Managing Appointments
 
-Checklist: 
-1. github entry timestamps
-2. User stories are correct: see p39
+## Priority:  
 
-* Assumed Velocity FROM iteration-1: ?? 
-* Number of developers: ??
-* Total estimated amount of work: YY days
+- 30
 
-User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+## Estimation:  
 
-In progress:
-* Task-2 (developer name or initials), date started
-* ...
+- 2 days  
 
-Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+### + Planning Poker  
+  
+- Luke: 2
+- Zane: 1
+- Corey: 2
+- Dylan: 2
 
-### Burn Down for iteration-2 (see chapter 4):
-Update this at least once per week
-* 4 weeks left, xx days of estimated amount of work 
-* 2 weeks left, xx days
-* 1 weeks left, xx days
-* 0 weeks left, xx days
-* Actual Velocity: ?? 
+### + Assumptions  
+
+- Will need another database for managing individual user bookings
+- Page will only show data if the user has some bookings
+
+## Description  
+
+### + V1
+- As a customer, I want to view, reschedule, or cancel my upcoming cleaning appointments, so I have full control over my bookings
+
+## Tasks  
+
+1. Create a list similar to that of the company listings page
+2. Show only data relevant to given user, from database
+
+# UI Design  
+  
+# Completed
+
+
+
+---
+
+# 02 - Secure Online Payments
+
+## Priority:  
+
+- 20
+
+## Estimation:  
+
+- 1.5 days  
+
+### + Planning Poker  
+  
+- Luke: 2
+- Zane: 2
+- Corey: 1
+- Dylan: 1
+
+### + Assumptions  
+
+- Will need to implement a payment service into website to handle payments
+- Will need to have booking system functional before this feature can be added
+
+## Description  
+
+### + V1
+- As a customer, I want to securely pay for my cleaning service through the app, so I don’t have to handle cash transactions
+
+## Tasks  
+
+1. Add payment system when customer books a service
+2. Check payment went through before finalizing booking 
+
+# UI Design  
+  
+# Completed
+
+
+---
+
+# 03 - Accepting and Managing Bookings
+
+## Priority:  
+
+- 10
+
+## Estimation:  
+
+- 2 days  
+
+### + Planning Poker  
+  
+- Luke: 4
+- Zane: 2
+- Corey: 2
+- Dylan: 2
+
+### + Assumptions  
+
+- n/a
+
+## Description  
+
+### + V1
+- As a cleaner, I want to receive and manage service requests, so I can accept jobs that fit my availability and workload
+- I should be able to see a list of customer bookings, and be able to accept or reject them
+
+## Tasks  
+
+1. Add list of bookings made by customers to cleaners profile
+2. Listings can be accepted or denied
+3. If denied, customer will be refunded 
+
+# UI Design  
+  
+# Completed
+
+
+---
