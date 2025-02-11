@@ -17,7 +17,7 @@ This repository is for the JCU CP3407 Advanced Software Engineering, group assig
 
 ### + User Stories / Initial Product Backlog
 
-[User Stories](./User_Stories.md)
+[User Stories](./User_stories.md)
 
 ### + Total Time to Complete
 
