@@ -34,13 +34,13 @@ Two 20 day iterations
 - (*velocity adjusted times are listed in iteration details*)
 ### + Iteration 1 
 
-[Iteration 1 Details](./Iteration_1.md)
+[Iteration 1 Details](./iteration_1.md)
 - 4 weeks 
 - 04/02/2025 -> 04/03/2025
 
 ### + Iteration 2
 
-[Iteration 2 Details](./Iteration_2.md)
+[Iteration 2 Details](./iteration_2.md)
 - 4 weeks
 - 04/03/2025 -> 01/04/2025
 
