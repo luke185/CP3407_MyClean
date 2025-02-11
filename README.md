@@ -8,7 +8,7 @@ This repository is for the JCU CP3407 Advanced Software Engineering, group assig
 
 1. Luke Prasser
 2. Dylan Perkins
-3. Zane 
+3. Zane Fletcher
 4. Corey Grainger
 
 ---
