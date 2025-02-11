@@ -1,10 +1,14 @@
 # Iteration Time Estimates
 
-## -- V1: Week / Chapter 1 
+>  V1: Week / Chapter 1 
 - 4 weeks with 1 work day per team member
 - 5 team members
 - Total: 5 x 1 x 4 = 20 
-## -- V2: Week / Chapter 3
+
+
+>  V2: Week / Chapter 3
+
+
 Times adjusted using velocity calculations
 > TODO: FILL OUT VELOCITY ADJUSTED DATES
 - 4 weeks with 1 work day per team member
@@ -18,16 +22,16 @@ Times adjusted using velocity calculations
 # 01 - Viewing and Managing Appointments
 
 ## Priority:  
-### -- V1: Week / Chapter 1 
+>   V1: Week / Chapter 1 
 
 - 30
 
 
 ## Estimation:  
-### -- V1: Week / Chapter 1 
+>   V1: Week / Chapter 1 
 - 2 days  
 
-### -- V1: Week / Chapter 2
+>   V1: Week / Chapter 2
 ### + Planning Poker  
   
 - Luke: 2
@@ -42,12 +46,12 @@ Times adjusted using velocity calculations
 
 ## Description  
 
-### -- V1: Week / Chapter 1 
+>   V1: Week / Chapter 1 
 - As a customer, I want to view, reschedule, or cancel my upcoming cleaning appointments, so I have full control over my bookings
 
 ## Tasks  
 
-### -- V1: Week / Chapter 3
+>   V1: Week / Chapter 3
 
 ### + TODO
 ***Week X***
@@ -60,10 +64,10 @@ Times adjusted using velocity calculations
 3. 
 
 ## UI Design  
-
+> [!WARNING]
 > TODO: ADD UI DESIGN
 ## Completion Evidence 
-
+> [!WARNING]
 > TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
 
 ---
@@ -71,14 +75,14 @@ Times adjusted using velocity calculations
 # 02 - Secure Online Payments
 
 ## Priority:  
-### -- V1: Week / Chapter 1 
+>   V1: Week / Chapter 1 
 - 20
 
 ## Estimation:  
-### -- V1: Week / Chapter 1 
+>   V1: Week / Chapter 1 
 - 1.5 days  
 
-### -- V1: Week / Chapter 2
+>   V1: Week / Chapter 2
 ### + Planning Poker  
   
 - Luke: 2
@@ -93,12 +97,12 @@ Times adjusted using velocity calculations
 
 ## Description  
 
-### + V1
+>   V1: Week / Chapter 1 
 - As a customer, I want to securely pay for my cleaning service through the app, so I don’t have to handle cash transactions
 
 ## Tasks  
 
-### -- V1: Week / Chapter 3
+>   V1: Week / Chapter 3
 
 ### + TODO
 ***Week X***
@@ -111,10 +115,10 @@ Times adjusted using velocity calculations
 3. 
 
 ## UI Design  
-
+> [!WARNING]
 > TODO: ADD UI DESIGN
 ## Completion Evidence 
-
+> [!WARNING]
 > TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
 
 
@@ -123,14 +127,14 @@ Times adjusted using velocity calculations
 # 03 - Accepting and Managing Bookings
 
 ## Priority:  
-### -- V1: Week / Chapter 1 
+>   V1: Week / Chapter 1 
 - 10
 
 ## Estimation:  
-### -- V1: Week / Chapter 1 
+>   V1: Week / Chapter 1 
 - 2 days  
 
-### -- V1: Week / Chapter 2
+>   V1: Week / Chapter 2
 ### + Planning Poker  
   
 - Luke: 4
@@ -144,13 +148,13 @@ Times adjusted using velocity calculations
 
 ## Description  
 
-### -- V1: Week / Chapter 1
+>   V1: Week / Chapter 1
 - As a cleaner, I want to receive and manage service requests, so I can accept jobs that fit my availability and workload
 - I should be able to see a list of customer bookings, and be able to accept or reject them
 
 ## Tasks  
 
-### -- V1: Week / Chapter 3
+>   V1: Week / Chapter 3
 
 ### + TODO
 ***Week X***
@@ -163,10 +167,10 @@ Times adjusted using velocity calculations
 3. 
 
 ## UI Design  
-
+> [!WARNING]
 > TODO: ADD UI DESIGN
 ## Completion Evidence 
-
+> [!WARNING]
 > TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
 
 
