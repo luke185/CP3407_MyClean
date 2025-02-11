@@ -8,7 +8,7 @@ This repository is for the JCU CP3407 Advanced Software Engineering, group assig
 
 1. Luke Prasser
 2. Dylan Perkins
-3. Zane 
+3. Zane Fletcher 
 4. Corey Grainger
 
 ---
@@ -21,25 +21,28 @@ This repository is for the JCU CP3407 Advanced Software Engineering, group assig
 
 ### + Total Time to Complete
 
-Total: 2 days
+Two 20 day iterations
 
 ---
 
 ## Project Iterations
 
+### Iteration Time Allocation
+- 1 work day per team member, per week
+- 5 team members
+- 20 total working days per iteration
+- (*velocity adjusted times are listed in iteration details*)
 ### + Iteration 1 
 
 [Iteration 1 Details](./Iteration_1.md)
-- 4 weeks (1 day per week, per team member)
-- 11/02/2025 -> 11/03/2025
-- Total: 4 working days 
+- 4 weeks 
+- 04/02/2025 -> 04/03/2025
 
 ### + Iteration 2
 
 [Iteration 2 Details](./Iteration_2.md)
-- 3 weeks (1 day per week, per team member)
-- 11/03/2025 -> 01/04/2025
-- Total: 3 working days
+- 4 weeks
+- 04/03/2025 -> 01/04/2025
 
 ### + Future Iteration
 [Future Iteration Details](./Iteration_Future.md)
