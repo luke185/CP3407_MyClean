@@ -15,6 +15,7 @@
 - Secure Online Payment (10) [4 days]
 - Notifications for New Bookings (20) [1 days] {Squeeze this in as a 1 day task}
 - Total: 16 days
+
 Note: Initially we had 4 group members and were working on a 16 day iteration.
 
 >V2: Week / Chapter 3
@@ -25,6 +26,7 @@ Note: Initially we had 4 group members and were working on a 16 day iteration.
 - Book a cleaning service (10) (6 days)
 - Company Listing Filters (10) (4 days) {This priority 10 now fits here. Secure Online Payment moved to Iteration 2 as it is now too long} 
 - Total: 20 Days
+
 Note: After further research into tools (clearing up some assumptions) we repeated the planning poker process and our estimates increased. 
 
 ---
@@ -57,6 +59,7 @@ Note: After further research into tools (clearing up some assumptions) we repeat
 - Corey: 3  
 - Dylan: 4
 - Caleb: 4
+
 Average: 3 days (3.4)  
 
 ### + Assumptions  
@@ -102,7 +105,7 @@ Average: 3 days (3.4)
 - Allow customers to view all companies on the website  
 - Presented in a list format, displaying main company information
 - Clicking on a company should take you to see more information on them
-- 
+  
 ## Priority:  
 >   V1: Week / Chapter 1 
 - 10  
@@ -122,6 +125,7 @@ Average: 3 days (3.4)
 - Corey: 5  
 - Dylan: 3
 - Caleb: 5
+
 Average: 4 days (4.2)
 
 ### + Assumptions  
@@ -176,6 +180,7 @@ Average: 4 days (4.2)
 
 >   V1: Week / Chapter 3
 - Adjusted for Velocity: 6 days (4 / 0.7 = 5.71)
+
 ### + Planning Poker  
   
 - Luke: 4
@@ -183,6 +188,7 @@ Average: 4 days (4.2)
 - Corey: 3
 - Dylan: 4
 - Caleb: 5
+
 Average: 4 days (3.8)
 
 ### + Assumptions  
@@ -236,6 +242,7 @@ Average: 4 days (3.8)
 - Corey: 4
 - Dylan: 5
 - Caleb: 4
+
 Average: 4 days
 
 ### + Assumptions  
