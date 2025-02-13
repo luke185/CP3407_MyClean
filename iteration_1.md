@@ -13,13 +13,18 @@ Times adjusted using velocity calculations
 > TODO: FILL OUT VELOCITY ADJUSTED DATES
 - 4 weeks with 1 work day per team member
 - 5 team members
-- Team Velocity: 
-- Total: 
+- Team Velocity: 0.7 (Recommended velocity for first iteration of a new project)
+- Total: 20 Days
 
 ---
 ---
 
 # 01 - User Registration and Profile Management
+
+## Description  
+
+>   V1: Week / Chapter 1
+- As an individual cleaner, I want to create an account and set up my profile so that I can be discovered by potential clients.  
 
 ## Priority:  
 
@@ -30,7 +35,8 @@ Times adjusted using velocity calculations
 ## Estimation:  
 
 >   V1: Week / Chapter 1 
-- 2 days  
+- 2 days
+- Adjusted for Velocity: 3 days (2 / 0.7 = 2.85) 
 
 >   V1: Week / Chapter 2
 ### + Planning Poker  
@@ -43,11 +49,6 @@ Times adjusted using velocity calculations
 ### + Assumptions  
 
 - Full day of work will be needed to fully implement user login and accounts.  
-
-## Description  
-
->   V1: Week / Chapter 1
-- As an individual cleaner, I want to create an account and set up my profile so that I can be discovered by potential clients.  
 
 ## Tasks  
 >   V1: Week / Chapter 3
@@ -78,6 +79,12 @@ Times adjusted using velocity calculations
 
 # 02 - Display All Company Listings  
 
+## Description  
+>   V1: Week / Chapter 1
+- Allow customers to view all companies on the website  
+- Presented in a list format, displaying main company information
+- Clicking on a company should take you to see more information on them
+- 
 ## Priority:  
 >   V1: Week / Chapter 1 
 - 10  
@@ -86,7 +93,7 @@ Times adjusted using velocity calculations
 
 >   V1: Week / Chapter 1
 - 1 days  
-
+- Adjusted for Velocity: 2 days (1 / 0.7 = 1.42)
 >   V1: Week / Chapter 2
 
 ### + Planning Poker  
@@ -100,12 +107,6 @@ Times adjusted using velocity calculations
 
 - Will need to have a working database of cleaning companies to list them 
 - Will have company setup process enabled before this feature
-
-## Description  
->   V1: Week / Chapter 1
-- Allow customers to view all companies on the website  
-- Presented in a list format, displaying main company information
-- Clicking on a company should take you to see more information on them
 
 ## Tasks  
 >   V1: Week / Chapter 3
@@ -134,6 +135,12 @@ Times adjusted using velocity calculations
 
 # 03 - Book a Cleaning Service  
 
+## Description  
+
+>   V1: Week / Chapter 1
+- As a customer, I want to easily search for and book a cleaning service through the website, so I can quickly find a reliable cleaner that fits my schedule
+- I should be able to select a service in the listing, and book from their listing page
+
 ## Priority:  
 >   V1: Week / Chapter 1 
 - 10
@@ -141,7 +148,8 @@ Times adjusted using velocity calculations
 ## Estimation:  
 
 >   V1: Week / Chapter 1
-- 1 days  
+- 1 days
+- Adjusted for Velocity: 2 days (1 / 0.7 = 1.42)
 
 >   V1: Week / Chapter 2
 
@@ -155,12 +163,6 @@ Times adjusted using velocity calculations
 ### + Assumptions  
 
 -  User profiles and company listing will be created first
-
-## Description  
-
->   V1: Week / Chapter 1
-- As a customer, I want to easily search for and book a cleaning service through the website, so I can quickly find a reliable cleaner that fits my schedule
-- I should be able to select a service in the listing, and book from their listing page
 
 ## Tasks  
 >   V1: Week / Chapter 3
