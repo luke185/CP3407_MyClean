@@ -1,20 +1,31 @@
 # Iteration Time Estimates
 
 >  V1: Week / Chapter 1 
-
+### Available Ideal Work Days
 - 4 weeks with 1 work day per team member
 - 5 team members
 - Total: 5 x 1 x 4 = 20 
 
->  V2: Week / Chapter 3
+### Iteration Summary
+> V1: Week / Chapter 1
+#### User Stories:
+- User Registration (10) [3 days] 
+- Display all company listings (10) [4 days]
+- Book a cleaning service (10) [4 days]
+- Secure Online Payment (10) [4 days]
+- Notifications for New Bookings (20) [1 days] {Squeeze this in as a 1 day task}
+- Total: 16 days
+Note: Initially we had 4 group members and were working on a 16 day iteration.
 
-Times adjusted using velocity calculations
-> [!WARNING]
-> TODO: FILL OUT VELOCITY ADJUSTED DATES
-- 4 weeks with 1 work day per team member
-- 5 team members
-- Team Velocity: 0.7 (Recommended velocity for first iteration of a new project)
+>V2: Week / Chapter 3
+**Team Velocity:** 0.7 (Recommended velocity for the first iteration of a new project)
+#### User Stories (Adjusted for Velocity)
+- User Registration (10) (4 days)
+- Display all company listings (10) (6 days)
+- Book a cleaning service (10) (6 days)
+- Company Listing Filters (10) (4 days) {This priority 10 now fits here. Secure Online Payment moved to Iteration 2 as it is now too long} 
 - Total: 20 Days
+Note: After further research into tools (clearing up some assumptions) we repeated the planning poker process and our estimates increased. 
 
 ---
 ---
@@ -35,20 +46,27 @@ Times adjusted using velocity calculations
 ## Estimation:  
 
 >   V1: Week / Chapter 1 
-- 2 days
-- Adjusted for Velocity: 3 days (2 / 0.7 = 2.85) 
+- 3 days 
 
->   V1: Week / Chapter 2
+>   V1: Week / Chapter 3
+- Adjusted for Velocity: 4 days (3 / 0.7 = 4.2)
 ### + Planning Poker  
 
-- Luke: 2  
-- Zane: 2  
-- Corey: 2  
-- Dylan: 1  
+- Luke: 3  
+- Zane: 3 
+- Corey: 3  
+- Dylan: 4
+- Caleb: 4
+Average: 3 days (3.4)  
 
 ### + Assumptions  
 
-- Full day of work will be needed to fully implement user login and accounts.  
+- We will need to store the cleaner's availability in association with their other profile details in the database.
+- It will be straightforward to create user database entries classified by whether they are a cleaner or client. 
+
+### + Dependencies
+
+- None
 
 ## Tasks  
 >   V1: Week / Chapter 3
@@ -92,21 +110,27 @@ Times adjusted using velocity calculations
 ## Estimation:  
 
 >   V1: Week / Chapter 1
-- 1 days  
-- Adjusted for Velocity: 2 days (1 / 0.7 = 1.42)
->   V1: Week / Chapter 2
+- 4 days  
 
+>   V1: Week / Chapter 3
+- Adjusted for Velocity: 6 days (4 / 0.7 = 5.71)
+  
 ### + Planning Poker  
   
-- Luke: 1
-- Zane: 1  
-- Corey: 1  
-- Dylan: 2  
+- Luke: 4
+- Zane: 4  
+- Corey: 5  
+- Dylan: 3
+- Caleb: 5
+Average: 4 days (4.2)
 
 ### + Assumptions  
 
 - Will need to have a working database of cleaning companies to list them 
-- Will have company setup process enabled before this feature
+
+### + Dependencies
+
+- Cleaner registration needs to be completed so that we can dynamically display company listings. 
 
 ## Tasks  
 >   V1: Week / Chapter 3
@@ -148,21 +172,26 @@ Times adjusted using velocity calculations
 ## Estimation:  
 
 >   V1: Week / Chapter 1
-- 1 days
-- Adjusted for Velocity: 2 days (1 / 0.7 = 1.42)
+- 4 days
 
->   V1: Week / Chapter 2
-
+>   V1: Week / Chapter 3
+- Adjusted for Velocity: 6 days (4 / 0.7 = 5.71)
 ### + Planning Poker  
   
-- Luke: 1
-- Zane: 1
-- Corey: 1
-- Dylan: 1
+- Luke: 4
+- Zane: 3
+- Corey: 3
+- Dylan: 4
+- Caleb: 5
+Average: 4 days (3.8)
 
 ### + Assumptions  
 
--  User profiles and company listing will be created first
+- None
+
+### + Dependencies
+
+- Customers will need to be able to display company listings in order to select and book them. 
 
 ## Tasks  
 >   V1: Week / Chapter 3
@@ -181,7 +210,58 @@ Times adjusted using velocity calculations
 ## UI Design  
 >   V1: Week / Chapter 2
 
+# 04 - Company Listing Filters
 
+## Description  
+
+>   V1: Week / Chapter 1
+- As a customer, I want to be able to see only the cleaning companies that meet my requirements of price, availability and location. 
+
+## Priority:  
+>   V1: Week / Chapter 1 
+- 10
+
+## Estimation:  
+
+>   V1: Week / Chapter 1
+- 3 days
+
+>   V1: Week / Chapter 3
+- Adjusted for Velocity: 4 days (3 / 0.7 = 4.2)
+  
+### + Planning Poker  
+  
+- Luke: 3
+- Zane: 4
+- Corey: 4
+- Dylan: 5
+- Caleb: 4
+Average: 4 days
+
+### + Assumptions  
+
+- None
+
+### + Dependencies
+
+- Customers will need to be able to display company listings in order to filter them. 
+
+## Tasks  
+>   V1: Week / Chapter 3
+
+### + TODO
+***Week X***
+7. 
+### + IN PROGRESS 
+***Week X***
+8. 
+### + DONE
+***Week X***
+9. 
+
+
+## UI Design  
+>   V1: Week / Chapter 2
 [Image](./images/UI-Design_Table.png)
 ## Completion Evidence 
 > [!WARNING]
