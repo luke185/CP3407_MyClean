@@ -75,15 +75,18 @@ Average: 3 days (3.4)
 ## Tasks  
 >   V1: Week / Chapter 3
 
-### + TODO
-***Week X***
-1. 
-### + IN PROGRESS 
-***Week X***
-2. 
+### + TODO: Week 4
+>   V1: Week / Chapter 4
+1. Add user sign up page
+2. Add user dashboard / profile page
+3. Include database logic to store user profiles
+### + IN PROGRESS: Week 4
+>   V1: Week / Chapter 4
+1. Add user sign up page
+2. Add user dashboard / profile page
+3. Include database logic to store user profiles
 ### + DONE
-***Week X***
-3. 
+>   V1: Week / Chapter ...
 
 ## UI Design  
 
@@ -140,15 +143,16 @@ Average: 4 days (4.2)
 ## Tasks  
 >   V1: Week / Chapter 3
 
-### + TODO
-***Week X***
-4. 
-### + IN PROGRESS 
-***Week X***
-5. 
+### + TODO: Week 4
+>   V1: Week / Chapter 4
+1. Add page to display all company listings
+2. Create database logic to store companies
+### + IN PROGRESS: Week 4
+>   V1: Week / Chapter 4
+1. Add page to display all company listings
+2. Create database logic to store companies
 ### + DONE
-***Week X***
-6. 
+>   V1: Week / Chapter ...
 
 ## UI Design  
 
@@ -203,15 +207,16 @@ Average: 4 days (3.8)
 ## Tasks  
 >   V1: Week / Chapter 3
 
-### + TODO
-***Week X***
-7. 
-### + IN PROGRESS 
-***Week X***
-8. 
+### + TODO: Week 4
+>   V1: Week / Chapter 4
+1. ***Need to finish other 2 user stories before starting this one***
+2. Add a booking button + logic to each listing on the listings page
+3. Include a page for user's to see their current bookings 
+### + IN PROGRESS: Week 4
+>   V1: Week / Chapter ...
+
 ### + DONE
-***Week X***
-9. 
+>   V1: Week / Chapter ...
 
 
 ## UI Design  
@@ -226,7 +231,7 @@ Average: 4 days (3.8)
 
 ## Priority:  
 >   V1: Week / Chapter 1 
-- 10
+- 20
 
 ## Estimation:  
 
@@ -257,15 +262,15 @@ Average: 4 days
 ## Tasks  
 >   V1: Week / Chapter 3
 
-### + TODO
-***Week X***
-7. 
-### + IN PROGRESS 
-***Week X***
-8. 
+### + TODO: Week 4
+>   V1: Week / Chapter 4
+1. ***Need to finish other company listing user story, before starting this one***
+2. Add filter option to company listing page
+### + IN PROGRESS: Week 4
+>   V1: Week / Chapter ...
+
 ### + DONE
-***Week X***
-9. 
+>   V1: Week / Chapter ...
 
 
 ## UI Design  
