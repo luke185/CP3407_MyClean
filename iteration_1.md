@@ -1,4 +1,4 @@
-# Iteration Time Estimates
+# Iteration 1 Time Estimates
 
 >  V1: Week / Chapter 1 
 ### Available Ideal Work Days
@@ -16,7 +16,8 @@
 - Notifications for New Bookings (20) [1 days] {Squeeze this in as a 1 day task}
 - Total: 16 days
 
-Note: Initially we had 4 group members and were working on a 16 day iteration.
+> [!WARNING]
+> Note: Initially we had 4 group members and were working on a 16 day iteration.
 
 >V2: Week / Chapter 3
 **Team Velocity:** 0.7 (Recommended velocity for the first iteration of a new project)
