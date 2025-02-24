@@ -109,9 +109,8 @@ Average: 3 days (3.4)
 
 ## Description  
 >   V1: Week / Chapter 1
-- Allow customers to view all companies on the website  
-- Presented in a list format, displaying main company information
-- Clicking on a company should take you to see more information on them
+- As a customer I want to be able to view the cleaning companies available for booking and their availabilities in an easily digestible format, with more detailed information available on companies as I require it. 
+
   
 ## Priority:  
 >   V1: Week / Chapter 1 
@@ -154,6 +153,7 @@ Average: 4 days (4.2)
 >   V1: Week / Chapter 4
 1. Add page to display all company listings
 2. Create database logic to store companies
+3. Allow companies to set and update their availability for display.
 ### + DONE
 >   V1: Week / Chapter ...
 
@@ -213,8 +213,9 @@ Average: 4 days (3.8)
 ### + TODO: Week 4
 >   V1: Week / Chapter 4
 1. ***Need to finish other 2 user stories before starting this one***
-2. Add a booking button + logic to each listing on the listings page
-3. Include a page for user's to see their current bookings 
+3. Add a booking button + logic to each listing on the listings page
+4. Add logic to control booking availability based on provider availability. 
+5. Include a page for user's to see their current bookings 
 ### + IN PROGRESS: Week 4
 >   V1: Week / Chapter ...
 
