@@ -89,6 +89,7 @@ Average: 3 days (3.4)
 >   V1: Week / Chapter 2
 1. Add user sign up page (17/02/2025)
 2. Include database logic to store user profiles (17/02/2025)
+3. Add user dashboard pages (24/02/2025)
 
 ## UI Design  
 
