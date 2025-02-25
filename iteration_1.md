@@ -95,11 +95,12 @@ Average: 3 days (3.4)
 
 >   V1: Week / Chapter 2
 Wireframes:
-1. Home Page [Image](./images/ui-design/Home Page Wireframe.png)
-2. Listings Page [Image](./images/ui-design/Listings Page Wireframe.png)
-3. Sign-in Page [Image](./images/ui-design/Sign-in Page Wireframe.png)
+1. Home Page [Image](./images/ui-design/Home_Page_Wireframe.png)
+2. Listings Page [Image](./images/ui-design/Listings_Page_Wireframe.png)
+3. Sign-in Page [Image](./images/ui-design/Sign-in_Page_Wireframe.png)
 
-[Image](./images/UI-Design_Form.png)
+Other:
+1. Design Form [Image](./images/UI-Design_Form.png)
   
 ## Completion Evidence 
 > [!WARNING]
