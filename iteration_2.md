@@ -9,11 +9,11 @@
 ### Iteration Summary
 > V1: Week / Chapter 1
 #### User Stories:
-- Viewing and Managing Appointments for Clients (20) (4 Days)
-- Accepting and Manging Bookings for Cleaners (20) (4 Days)
-- Cleaning Package Selection (30) (4 Days)
-- Reccuring Bookings (30) (1 Days)
-- Service Offerings (30) (3 Days)
+- [Viewing and Managing Appointments for Clients](user_stories/viewing_and_managing_appointments_for_clients.md) (20) (4 Days)
+- [Accepting and Manging Bookings for Cleaners](user_stories/accepting_and_managing_bookings_for_cleaners.md) (20) (4 Days)
+- Cleaning Package Selection (30) (4 Days) (removed from iteration 2)
+- [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (1 Days)
+- Service Offerings (30) (3 Days) (removed from iteration 2)
 - Total: 16 Days
 
 > [!WARNING]
@@ -23,12 +23,12 @@
 >V2: Week / Chapter 3
 **Team Velocity:** 0.7 (Recommended velocity for the first iteration of a new project)
 #### User Stories (Adjusted for Velocity)
-- Secure Online Payments (10) (6 Days) {Moved to iteration 2 from iteration 1 after velocity adjustments}
-- Viewing and Managing Appointments for Clients (20) (4 Days)
-- Accepting and Managing Bookings for Cleaners (20) (4 Days)
-- Notifications for Clients (20) (2 Days)
-- Notifications for Cleaners (20) (2 Days)
-- Reccuring Bookings (30) (2 Days)
+- [Secure Online Payments](user_stories/secure_online_payments.md) (10) (6 Days) {Moved to iteration 2 from iteration 1 after velocity adjustments}
+- [Viewing and Managing Appointments for Clients](user_stories/viewing_and_managing_appointments_for_clients.md) (20) (4 Days)
+- [Accepting and Manging Bookings for Cleaners](user_stories/accepting_and_managing_bookings_for_cleaners.md) (20) (4 Days)
+- [Notifications for Clients](user_stories/notifications_for_clients.md) (20) (2 Days)
+- [Notifications for Cleaners](user_stories/notifications_for_cleaners.md) (20) (2 Days)
+- [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (2 Days)
 - Total: 20 Days
 
 ---
