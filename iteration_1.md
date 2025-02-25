@@ -155,7 +155,8 @@ Average: 4 days (4.2)
 2. Create database logic to store companies
 3. Allow companies to set and update their availability for display.
 ### + DONE
->   V1: Week / Chapter ...
+>   V1: Week / Chapter 4
+1. Add page to display all company listings (20/02/25)
 
 ## UI Design  
 
