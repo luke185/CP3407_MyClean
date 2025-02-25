@@ -105,7 +105,7 @@ Other:
 ## Completion Evidence 
 > [!WARNING]
 > TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
-
+1. Add user sign up page [Image](./images/iteration1_completion_evidence/User%20Sign%20Up.png)
 --- 
 
 
