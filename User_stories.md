@@ -13,7 +13,7 @@
     _As a customer, I want to view, reschedule, or cancel my upcoming cleaning appointments, so I have full control over my bookings._
     
 3. **Real-Time Cleaner Tracking (20)**  
-    _As a customer, I want to track the real-time location of my assigned cleaner on the day of the service, so I know when they will arrive._
+    _As a customer, I want to track my cleaner's real-time location on service day to know their arrival time._
     
 4. **In-App Communication (20)**  
     _As a customer, I want to chat or call my assigned cleaner within the app, so I can discuss specific requirements or ask questions before the service._
