@@ -65,10 +65,10 @@ Wireframes:
 3. Sign-in Page [Image](/images/ui_design/Sign-in_Page_Wireframe.png)
 
 Other:
-1. Design Form [Image](./images/UI-Design_Form.png)
+1. Design Form [Image](/images/UI-Design_Form.png)
   
 ## Completion Evidence 
 > [!WARNING]
 > TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
-1. Add user sign up page [Image](./images/iteration1_completion_evidence/User%20Sign%20Up.png)
+1. Add user sign up page [Image](/images/iteration1_completion_evidence/User%20Sign%20Up.png)
 --- 
