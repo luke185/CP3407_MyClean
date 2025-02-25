@@ -56,7 +56,7 @@ Average: 4 days (4.2)
 >   V1: Week / Chapter 2
 
 
-[Image](./images/UI-Design_Table.png)
+[Image](/images/ui_design/Listings_Page_Wireframe.png)
 ## Completion Evidence 
 
 > TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
