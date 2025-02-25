@@ -9,11 +9,11 @@
 ### Iteration Summary
 > V1: Week / Chapter 1
 #### User Stories:
-- User Registration (10) [3 days] 
-- Display all company listings (10) [4 days]
-- Book a cleaning service (10) [4 days]
-- Secure Online Payment (10) [4 days]
-- Notifications for New Bookings (20) [1 days] {Squeeze this in as a 1 day task}
+- [User Registration](user_stories/user_registration_and_profile_management.md) (10) [3 days] 
+- [Display all company listings](user_stories/display_all_company_listings.md) (10) [4 days]
+- [Book a cleaning service](user_stories/book_a_cleaning_service.md) (10) [4 days]
+- [Secure Online Payment](user_stories/secure_online_payments.md) (10) [4 days]
+- Notifications for New Bookings (20) [1 days] {Squeeze this in as a 1 day task} (Split into 2 tasks and no longer fits in iteration 1)
 - Total: 16 days
 
 > [!WARNING]
@@ -22,10 +22,10 @@
 >V2: Week / Chapter 3
 **Team Velocity:** 0.7 (Recommended velocity for the first iteration of a new project)
 #### User Stories (Adjusted for Velocity)
-- User Registration (10) (4 days)
-- Display all company listings (10) (6 days)
-- Book a cleaning service (10) (6 days)
-- Company Listing Filters (10) (4 days) {This priority 10 now fits here. Secure Online Payment moved to Iteration 2 as it is now too long} 
+- [User Registration](user_stories/user_registration_and_profile_management.md) (10) (4 days)
+- [Display all company listings](user_stories/display_all_company_listings.md) (10) (6 days)
+- [Book a cleaning service](user_stories/book_a_cleaning_service.md) (10) (6 days)
+- [Company Listing Filters](user_stories/company_listing_filters.md) (10) (4 days) {This priority 10 now fits here. Secure Online Payment moved to Iteration 2 as it is now too long} 
 - Total: 20 Days
 
 Note: After further research into tools (clearing up some assumptions) we repeated the planning poker process and our estimates increased. 
