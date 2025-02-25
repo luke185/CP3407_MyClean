@@ -94,7 +94,10 @@ Average: 3 days (3.4)
 ## UI Design  
 
 >   V1: Week / Chapter 2
-
+Wireframes:
+1. Home Page [Image](./images/ui-design/Home Page Wireframe.png)
+2. Listings Page [Image](./images/ui-design/Listings Page Wireframe.png)
+3. Sign-in Page [Image](./images/ui-design/Sign-in Page Wireframe.png)
 
 [Image](./images/UI-Design_Form.png)
   
