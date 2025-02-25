@@ -3,7 +3,7 @@
 ## Description  
 
 >   V1: Week / Chapter 1
-- As a cleaning provider I want to recieve notifications when a customer requests a requests, changes, cancels or pays for a booking. 
+- As a cleaning provider I want to recieve notifications when a customer requests, changes, cancels or pays for a booking. 
 
 ## Priority:  
 >   V1: Week / Chapter 1 
