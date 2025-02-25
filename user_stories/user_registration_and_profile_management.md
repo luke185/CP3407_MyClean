@@ -1,4 +1,4 @@
-# 01 - User Registration and Profile Management
+# - User Registration and Profile Management
 
 ## Description  
 
