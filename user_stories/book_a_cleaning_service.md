@@ -61,6 +61,6 @@ Book a Cleaning Service page [Image](/images/ui_design/Book_A_Cleaning_Sevice.pn
 
 ## Completion Evidence 
 
-Database tables for holding provider availability slots and recurring workflows (recursive code) for periodically generating slots based on provider availability stored in the database:  [Image](/images/iteration1_completion_evidence/Booking_Slot_API_Workflows.png) [Image](images/iteration1_completion_evidence/Booking_Slot_Database_Table.png)
+Database tables for holding provider availability slots and recurring workflows (recursive code) for periodically generating slots based on provider availability stored in the database:  [Image](/images/iteration1_completion_evidence/Booking_Slot_API_Workflows.png) [Image](/images/iteration1_completion_evidence/Booking_Slot_Database_Table.png)
 
 
