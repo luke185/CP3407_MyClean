@@ -54,6 +54,8 @@ Average: 4 days (4.2)
 ## UI Design  
 
 >   V1: Week / Chapter 2
+Secure Online Payments Wireframe -  [Image](/images/ui_design/Secure_Online_Payments_Wireframe.png)
+
 
   
 ## Completion Evidence 
