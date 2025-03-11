@@ -52,6 +52,8 @@ Average: 4 days
 ## UI Design  
 >   V1: Week / Chapter 2
 [Image](/images/ui_design/Listings_Page_Wireframe.png)
+
 ## Completion Evidence 
-> [!WARNING]
-> TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
+
+[image](/images/iteration1_completion_evidence/listing_evidence.png)
+
