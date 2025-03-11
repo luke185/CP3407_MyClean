@@ -60,6 +60,6 @@ Average: 4 days (4.2)
 [Image](/images/ui_design/Listings_Page_Wireframe.png)
 ## Completion Evidence 
 
-> TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
+Bookings table: [Image](/images/iteration1_completion_evidence/listing_evidence.png)
 
 ---
