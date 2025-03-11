@@ -44,10 +44,10 @@ Average: 4 days
 2. Add filter option to company listing page
 ### + IN PROGRESS: Week 4
 >   V1: Week / Chapter ...
-
+1. Add filter option to company listing page
 ### + DONE
 >   V1: Week / Chapter ...
-
+1. Add filter option to company listing page (11/03/2025)
 
 ## UI Design  
 >   V1: Week / Chapter 2
