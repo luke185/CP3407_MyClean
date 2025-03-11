@@ -59,5 +59,8 @@ Average: 4 days (3.8)
 >   V1: Week / Chapter 2
 Book a Cleaning Service page [Image](/images/ui_design/Book_A_Cleaning_Sevice.png)
 
+## Completion Evidence 
+
+Database tables for holding provider availability slots and recurring workflows (recursive code) for periodically generating slots based on provider availability stored in the database: [Image](/images/iteration1_completion_evidence/Booking Slot API Workflows.png) [Image](images/iteration1_completion_evidence/Booking Slot Database Table.png)
 
 
