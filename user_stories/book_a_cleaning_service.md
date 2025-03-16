@@ -39,28 +39,34 @@ Average: 4 days (3.8)
 ## Tasks  
 >   V1: Week / Chapter 3
 1. Add logic to control booking availability based on provider availability. (2 days)
-2. Add a booking button + logic to each listing on the listings page (1 day)
-3. Include a page for user's to see their current bookings (1 day)
+2. Add a booking button + logic to each listing on the listings page (0.5 days)
+3. Add a booking page for users to select their required booking times. (2 days)
+4. Include a page for user's to see their current bookings (0.5 days)
 
 ### + TODO: Week 4
 >   V1: Week / Chapter 4
 1. Add logic to control booking availability based on provider availability. 
 2. Add a booking button + logic to each listing on the listings page
-3. Include a page for user's to see their current bookings 
+3. Add a booking page for users to select their required booking times.
+4. Include a page for user's to see their current bookings 
 ### + IN PROGRESS: Week 4
 >   V1: Week / Chapter ...
-1. Add logic to control booking availability based on provider availability. 
-2. Add a booking button + logic to each listing on the listings page. 
+1. Add logic to control booking availability based on provider availability. (26/02/2025)
+2. Add a booking button + logic to each listing on the listings page. (10/03/2025)
+3. Add a booking page for users to select their required booking times. (10/03/2025)
+4. Include a page for user's to see their current bookings (13/03/2025)
 ### + DONE
 >   V1: Week / Chapter ...
 1. Add logic to control booking availability based on provider availability. (28/02/2025)
-
+2. Add a booking button + logic to each listing on the listings page. (10/03/2025)
+3. Add a booking page for users to select their required booking times. (12/03/2025
+4. Include a page for user's to see their current bookings (14/03/2025)
 ## UI Design  
 >   V1: Week / Chapter 2
 Book a Cleaning Service page [Image](/images/ui_design/Book_A_Cleaning_Sevice.png)
 
 ## Completion Evidence 
 
-Database tables for holding provider availability slots and recurring workflows (recursive code) for periodically generating slots based on provider availability stored in the database:  [Image](/images/iteration1_completion_evidence/Booking_Slot_API_Workflows.png) [Image](/images/iteration1_completion_evidence/Booking_Slot_Database_Table.png)
+Database tables for holding provider availability slots and recurring workflows (recursive code) for periodically generating slots based on provider availability stored in the database:  [Task 1](/images/iteration1_completion_evidence/Booking_Slot_API_Workflows.png) [Task 1](/images/iteration1_completion_evidence/Booking_Slot_Database_Table.png) [Task 2](images/iteration1_completion_evidence/booking_buttons.png) [Task 3](images/iteration1_completion_evidence/booking_selection_1.png) [Task 3](images/iteration1_completion_evidence/booking_selection_2.png) [Task 4](images/iteration1_completion_evidence/user_bookings_tables.png)
 
 
