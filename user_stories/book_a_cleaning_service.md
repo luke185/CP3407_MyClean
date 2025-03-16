@@ -67,6 +67,9 @@ Book a Cleaning Service page [Image](/images/ui_design/Book_A_Cleaning_Sevice.pn
 
 ## Completion Evidence 
 
-Database tables for holding provider availability slots and recurring workflows (recursive code) for periodically generating slots based on provider availability stored in the database:  [Task 1](/images/iteration1_completion_evidence/Booking_Slot_API_Workflows.png) [Task 1](/images/iteration1_completion_evidence/Booking_Slot_Database_Table.png) [Task 2](images/iteration1_completion_evidence/booking_buttons.png) [Task 3](images/iteration1_completion_evidence/booking_selection_1.png) [Task 3](images/iteration1_completion_evidence/booking_selection_2.png) [Task 4](images/iteration1_completion_evidence/user_bookings_tables.png)
+Task 1. Database tables for holding provider availability slots and recurring workflows (recursive code) for periodically generating slots based on provider availability stored in the database:  [Task 1](/images/iteration1_completion_evidence/Booking_Slot_API_Workflows.png) [Task 1](/images/iteration1_completion_evidence/Booking_Slot_Database_Table.png) 
+Task 2. Booking buttons on the listings page that link to the booking page [Task 2](images/iteration1_completion_evidence/booking_buttons.png) 
+Task 3. Booking screen with time selection interface that updates dynamically based on selections [Task 3](images/iteration1_completion_evidence/booking_selection_1.png) [Task 3](images/iteration1_completion_evidence/booking_selection_2.png) 
+Task 4. Current bookings table displayed on the user dashboard. [Task 4](images/iteration1_completion_evidence/user_bookings_tables.png)
 
 
