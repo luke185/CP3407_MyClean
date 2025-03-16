@@ -45,9 +45,9 @@ Average: 4 days (4.2)
 3. Allow companies to set and update their availability. (3 Days)
 ### + IN PROGRESS: Week 4
 >   V1: Week / Chapter 4
-1. Add page to display all company listings
-2. Create database logic to store companies
-3. Allow companies to set and update their availability for display.
+1. Add page to display all company listings (19/02/2025)
+2. Create database logic to store companies (22/02/2025)
+3. Allow companies to set and update their availability for display. (27/02/2025)
 ### + DONE
 >   V1: Week / Chapter 4
 1. Add page to display all company listings (20/02/25)
@@ -61,7 +61,9 @@ Average: 4 days (4.2)
 
 [Image](/images/ui_design/Listings_Page_Wireframe.png)
 ## Completion Evidence 
-
-Bookings table: [Image](/images/iteration1_completion_evidence/listing_evidence.png)
+    
+  Task 1. Listings table: [Task 1](/images/iteration1_completion_evidence/listing_evidence.png)  
+  Task 2. Availability database: [Task 2](images/iteration1_completion_evidence/availability_database_table.png)  
+  Task 3. Company Availability update page: [Task 3](images/iteration1_completion_evidence/provider_availability_page.png)  
 
 ---
