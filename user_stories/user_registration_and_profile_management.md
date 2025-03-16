@@ -61,14 +61,15 @@ Average: 3 days (3.4)
 >   V1: Week / Chapter 2
 Wireframes:
 1. Home Page [Image](/images/ui_design/Home_Page_Wireframe.png)
-2. Listings Page [Image](/images/ui_design/Listings_Page_Wireframe.png)
 3. Sign-in Page [Image](/images/ui_design/Sign-in_Page_Wireframe.png)
 
 Other:
 1. Design Form [Image](/images/UI-Design_Form.png)
   
-## Completion Evidence 
-> [!WARNING]
-> TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
-1. Add user sign up page [Image](/images/iteration1_completion_evidence/User%20Sign%20Up.png)
+## Completion Evidence  
+
+  Task 1. User sign up/login page: [Task 1](/images/iteration1_completion_evidence/User%20Sign%20Up.png) [Task 1](images/iteration1_completion_evidence/User%20Log%20In.png)
+  Task 2. User Database: [Task 2](images/iteration1_completion_evidence/User%20database%20test.png)
+  Task 3. User dashboard page [Task 3](images/iteration1_completion_evidence/user_dashboard.png)
+  
 --- 
