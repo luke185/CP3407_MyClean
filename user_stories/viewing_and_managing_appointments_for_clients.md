@@ -51,6 +51,7 @@ Average: 3 days
 ## UI Design  
 
 >   V1: Week / Chapter 2
+1. Viewing and Managing Appointments for Clients Wireframe [Image](images/ui_design/Viewing and Managing Appointments for Clients.drawio.png)
 
 
 ## Completion Evidence 
