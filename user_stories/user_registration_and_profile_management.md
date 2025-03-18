@@ -65,9 +65,8 @@ Wireframes:
 
   
 ## Completion Evidence  
-
-  Task 1. User sign up/login page: [Task 1](/images/iteration1_completion_evidence/User%20Sign%20Up.png) [Task 1](images/iteration1_completion_evidence/User%20Log%20In.png)
-  Task 2. User Database: [Task 2](images/iteration1_completion_evidence/User%20database%20test.png)
-  Task 3. User dashboard page [Task 3](images/iteration1_completion_evidence/user_dashboard.png)
+Task 1. User sign up/login page: [Task 1](/images/iteration1_completion_evidence/User%20Sign%20Up.png) [Task 1](images/iteration1_completion_evidence/User%20Log%20In.png)  
+Task 2. User Database: [Task 2](images/iteration1_completion_evidence/User%20database%20test.png)  
+Task 3. User dashboard page: [Task 3](images/iteration1_completion_evidence/user_dashboard.png)  
   
 --- 
