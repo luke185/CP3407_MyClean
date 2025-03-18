@@ -59,7 +59,7 @@ Average: 4 days (4.2)
 >   V1: Week / Chapter 2
 
 
-[Image](/images/ui_design/Listings_Page_Wireframe.png)
+1. Listing Page [Image](/images/ui_design/Listings_Page_Wireframe.png)
 ## Completion Evidence 
     
   Task 1. Listings table: [Task 1](/images/iteration1_completion_evidence/listing_evidence.png)  
