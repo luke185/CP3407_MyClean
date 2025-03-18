@@ -44,16 +44,16 @@ Average: 4 days
 2. Add filter option to company listing page (4 days)
 ### + IN PROGRESS: Week 4
 >   V1: Week / Chapter ...
-1. Add filter option to company listing page
+1. Add filter option to company listing page (06/03/2025)
 ### + DONE
 >   V1: Week / Chapter ...
 1. Add filter option to company listing page (11/03/2025)
 
 ## UI Design  
 >   V1: Week / Chapter 2
-[Image](/images/ui_design/Listings_Page_Wireframe.png)
 
+1. Filtering options [Image](/images/ui_design/Listings_Page_Wireframe.png)
 ## Completion Evidence 
 
-[image](/images/iteration1_completion_evidence/filters_evidence.png)
+Task 1. Filters for listings: [Task 1](/images/iteration1_completion_evidence/filters_evidence.png)
 
