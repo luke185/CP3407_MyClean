@@ -24,7 +24,7 @@
 #### User Stories (Adjusted for Velocity)
 - [User Registration](user_stories/user_registration_and_profile_management.md) (10) (4 days)
 - [Display all company listings](user_stories/display_all_company_listings.md) (10) (6 days)
-- [Book a cleaning service](user_stories/book_a_cleaning_service.md) (10) (6 days)
+- [Book a cleaning service](user_stories/book_a_cleaning_service.md) (10) (5 days)
 - [Company Listing Filters](user_stories/company_listing_filters.md) (10) (4 days) {This priority 10 now fits here. Secure Online Payment moved to Iteration 2 as it is now too long} 
 - Total: 20 Days
 
