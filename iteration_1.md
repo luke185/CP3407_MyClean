@@ -30,6 +30,9 @@
 
 Note: After further research into tools (clearing up some assumptions) we repeated the planning poker process and our estimates increased. 
 
+### Burndown Chart
+![image](https://github.com/user-attachments/assets/b9892a51-1367-4172-9403-f2afbbe9c676)
+
 ---
 ---
 
