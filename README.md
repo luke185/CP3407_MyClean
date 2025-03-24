@@ -37,13 +37,13 @@ Two 20 day iterations
 
 [Iteration 1 Details](./iteration_1.md)
 - 4 weeks 
-- 04/02/2025 -> 04/03/2025
+- 17/02/2025 -> 17/03/2025
 
 ### + Iteration 2
 
 [Iteration 2 Details](./iteration_2.md)
 - 4 weeks
-- 04/03/2025 -> 01/04/2025
+- 17/03/2025 -> 13/04/2025
 
 ### + Future Iteration
 [Future Iteration Details](./Iteration_Future.md)
