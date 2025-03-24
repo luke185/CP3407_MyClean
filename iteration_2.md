@@ -26,10 +26,6 @@
 - V2 = 16 / 16 * 0.7
 - V2 = 0.7
 
-> [!WARNING]
-> Note: Initially we had 4 group members and were working on a 16 day iteration. We used a Figjam board to plan our iterations and later updated our Github (see Figjam screenshots)
-> TODO: ADD FIGJAM SCREENSHOTS
-
 >V2: Week / Chapter 3
 **Team Velocity:** 0.7 (Recommended velocity using the velocity calculation formula following a completed iteration)
 #### User Stories (Adjusted for Velocity)
