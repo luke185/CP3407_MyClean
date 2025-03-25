@@ -40,12 +40,12 @@ Average: 3 days (3.4)
 ## Tasks  
 >   V1: Week / Chapter 3
 
-### + TODO: Week 4
+### + TODO
 >   V1: Week / Chapter 4
 1. Add user sign up page (0.5 days)
 2. Add user dashboard / profile page (0.5 days)
 3. Include database logic to store user profiles (3 days)
-### + IN PROGRESS: Week 4
+### + IN PROGRESS
 >   V1: Week / Chapter 4
 1. Add user sign up page (17/02/2025)
 2. Add user dashboard / profile page (17/02/2025)
