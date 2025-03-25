@@ -18,13 +18,12 @@
 
 #### Updated Velocity Calculation:
 - Velocity calculation formula:
-- V2 = E2 / E1 * V1
+- V2 = E1 / A1
 - V2 = Velocity for iteration 2
-- E2 = Estimated user story days pre-velocity in iteration 2
 - E1 = Estimated user story days pre-velocity in iteration 1
-- V1 = Velocity for iteration 1
-- V2 = 16 / 16 * 0.7
-- V2 = 0.7
+- A1 = Actual days to complete iteration 1
+- V2 = 14 / 19
+- V2 = 0.74
 
 >V2: Week / Chapter 3
 **Team Velocity:** 0.7 (Recommended velocity using the velocity calculation formula following a completed iteration)
