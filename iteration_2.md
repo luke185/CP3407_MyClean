@@ -9,12 +9,15 @@
 ### Iteration Summary
 > V1: Week / Chapter 1
 #### User Stories:
+- [Secure Online Payments](user_stories/secure_online_payments.md) (10) (4 Days) (Moved to iteration 2 from iteration 1 after velocity adjustments)
 - [Viewing and Managing Appointments for Clients](user_stories/viewing_and_managing_appointments_for_clients.md) (20) (4 Days)
 - [Accepting and Manging Bookings for Cleaners](user_stories/accepting_and_managing_bookings_for_cleaners.md) (20) (4 Days)
-- Cleaning Package Selection (30) (4 Days) (removed from iteration 2)
+- [Notifications for Clients](user_stories/notifications_for_clients.md) (20) (1 Days)
+- [Notifications for Cleaners](user_stories/notifications_for_cleaners.md) (20) (1 Days)
 - [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (1 Days)
+- Cleaning Package Selection (30) (4 Days) (removed from iteration 2)
 - Service Offerings (30) (3 Days) (removed from iteration 2)
-- Total: 16 Days
+- Total: 15 Days
 
 #### Updated Velocity Calculation:
 - Velocity calculation formula:
@@ -28,12 +31,12 @@
 >V2: Week / Chapter 3
 **Team Velocity:** 0.7 (Recommended velocity using the velocity calculation formula following a completed iteration)
 #### User Stories (Adjusted for Velocity)
-- [Secure Online Payments](user_stories/secure_online_payments.md) (10) (6 Days) {Moved to iteration 2 from iteration 1 after velocity adjustments}
-- [Viewing and Managing Appointments for Clients](user_stories/viewing_and_managing_appointments_for_clients.md) (20) (4 Days)
-- [Accepting and Manging Bookings for Cleaners](user_stories/accepting_and_managing_bookings_for_cleaners.md) (20) (4 Days)
+- [Secure Online Payments](user_stories/secure_online_payments.md) (10) (5 Days) {Moved to iteration 2 from iteration 1 after velocity adjustments}
+- [Viewing and Managing Appointments for Clients](user_stories/viewing_and_managing_appointments_for_clients.md) (20) (5 Days)
+- [Accepting and Manging Bookings for Cleaners](user_stories/accepting_and_managing_bookings_for_cleaners.md) (20) (5 Days)
 - [Notifications for Clients](user_stories/notifications_for_clients.md) (20) (2 Days)
 - [Notifications for Cleaners](user_stories/notifications_for_cleaners.md) (20) (2 Days)
-- [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (2 Days)
+- [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (1 Days)
 - Total: 20 Days
 
 ---
