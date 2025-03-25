@@ -38,11 +38,11 @@ Average: 4 days
 ## Tasks  
 >   V1: Week / Chapter 3
 
-### + TODO: Week 4
+### + TODO
 >   V1: Week / Chapter 4
 1. ***Need to finish other company listing user story, before starting this one***
 2. Add filter option to company listing page (4 days)
-### + IN PROGRESS: Week 4
+### + IN PROGRESS
 >   V1: Week / Chapter ...
 1. Add filter option to company listing page (06/03/2025)
 ### + DONE
