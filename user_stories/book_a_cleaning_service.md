@@ -39,13 +39,13 @@ Average: 4 days (3.8)
 ## Tasks  
 >   V1: Week / Chapter 3
 
-### + TODO: Week 4
+### + TODO
 >   V1: Week / Chapter 4
 1. Add logic to control booking availability based on provider availability. (2 days)
 2. Add a booking button + logic to each listing on the listings page (0.5 days)
 3. Add a booking page for users to select their required booking times. (2 days)
 4. Include a page for user's to see their current bookings (0.5 days)
-### + IN PROGRESS: Week 4
+### + IN PROGRESS
 >   V1: Week / Chapter ...
 1. Add logic to control booking availability based on provider availability. (26/02/2025)
 2. Add a booking button + logic to each listing on the listings page. (10/03/2025)
