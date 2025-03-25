@@ -31,7 +31,7 @@
 >V2: Week / Chapter 3
 **Team Velocity:** 0.7 (Recommended velocity using the velocity calculation formula following a completed iteration)
 #### User Stories (Adjusted for Velocity)
-- [Secure Online Payments](user_stories/secure_online_payments.md) (10) (5 Days) {Moved to iteration 2 from iteration 1 after velocity adjustments}
+- [Secure Online Payments](user_stories/secure_online_payments.md) (10) (5 Days) (Moved to iteration 2 from iteration 1 after velocity adjustments)
 - [Viewing and Managing Appointments for Clients](user_stories/viewing_and_managing_appointments_for_clients.md) (20) (5 Days)
 - [Accepting and Manging Bookings for Cleaners](user_stories/accepting_and_managing_bookings_for_cleaners.md) (20) (5 Days)
 - [Notifications for Clients](user_stories/notifications_for_clients.md) (20) (2 Days)
