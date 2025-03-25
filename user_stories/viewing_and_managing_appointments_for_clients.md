@@ -39,14 +39,14 @@ Average: 3 days
 >   V1: Week / Chapter 3
 
 ### + TODO
-***Week X***
-4. 
+>   V1: Week / Chapter 4
+1.
 ### + IN PROGRESS 
-***Week X***
-5. 
+>   V1: Week / Chapter 4
+1.
 ### + DONE
-***Week X***
-6. 
+>   V1: Week / Chapter 2
+1.
 
 ## UI Design  
 
