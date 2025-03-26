@@ -40,7 +40,7 @@
 
 
 
-- [Service Offerings](user_stories/service_offerings.md) (30) (4 Days) {Removed from iteration 2 after velocity adjustments}
+~[Service Offerings](user_stories/service_offerings.md)~ (30) (4 Days) {Removed from iteration 2 after velocity adjustments}
 
 ---
 
