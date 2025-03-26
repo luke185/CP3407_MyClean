@@ -38,7 +38,7 @@
 - [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (1 Days)
 - Total: 20 Days
 
-[Service Offerings](user_stories/service_offerings.md) (30) (4 Days) {Returned to backlog after velocity adjustments}
+- [Service Offerings](user_stories/service_offerings.md) (30) (4 Days) {Removed from iteration 2 after velocity adjustments}
 
 ---
 
