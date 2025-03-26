@@ -36,11 +36,11 @@
 - [Notifications for Clients](user_stories/notifications_for_clients.md) (20) (2 Days)
 - [Notifications for Cleaners](user_stories/notifications_for_cleaners.md) (20) (2 Days)
 - [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (1 Days)
+- ~[Service Offerings](user_stories/service_offerings.md)~ (30) (4 Days) {Removed from iteration 2 after velocity adjustments}
 - Total: 20 Days  
 
 
 
-~[Service Offerings](user_stories/service_offerings.md)~ (30) (4 Days) {Removed from iteration 2 after velocity adjustments}
 
 ---
 
