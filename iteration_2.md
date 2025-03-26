@@ -15,9 +15,8 @@
 - [Notifications for Clients](user_stories/notifications_for_clients.md) (20) (1 Days)
 - [Notifications for Cleaners](user_stories/notifications_for_cleaners.md) (20) (1 Days)
 - [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (1 Days)
-- Cleaning Package Selection (30) (4 Days) (removed from iteration 2)
-- Service Offerings (30) (3 Days) (removed from iteration 2)
-- Total: 15 Days
+- [Service Offerings](user_stories/service_offerings.md) (30) (4 Days) 
+- Total: 19 Days
 
 #### Updated Velocity Calculation:
 - Velocity calculation formula:
@@ -38,6 +37,8 @@
 - [Notifications for Cleaners](user_stories/notifications_for_cleaners.md) (20) (2 Days)
 - [Reccuring Bookings](user_stories/recurring_bookings.md) (30) (1 Days)
 - Total: 20 Days
+
+[Service Offerings](user_stories/service_offerings.md) (30) (4 Days) {Returned to backlog after velocity adjustments}
 
 ---
 
