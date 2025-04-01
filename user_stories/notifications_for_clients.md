@@ -39,10 +39,8 @@ Average: 1 days (1.4)
 
 ## Tasks  
 >   V1: Week / Chapter 3
-1. Add workflow to send an email notification when a client makes a booking
-2. Add workflow to send an email notification when a client booking is confirmed by a provider (if not automatic)
-3. Add workflow to send an email notification when a client booking is cancelled by a provider
-4. Add workflow to send an email notification the day before a booking occurs.
+1. Add workflow to send an email notification when a client makes a booking and the day before a booking occurs. (0.5 days)
+2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider (if not automatic) (0.5 days)
 ### + TODO
 >   V1: Week / Chapter 4
 1. 
