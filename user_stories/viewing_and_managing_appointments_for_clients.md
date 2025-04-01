@@ -2,7 +2,7 @@
 
 ## Description  
 >   V1: Week / Chapter 1 
-- As a customer, I want to view, reschedule, or cancel my upcoming cleaning appointments, so I have full control over my bookings
+- As a customer, I want to view, reschedule, pay or cancel my upcoming cleaning appointments, so I have full control over my bookings
    
 ## Priority:  
 >   V1: Week / Chapter 1 
@@ -37,16 +37,28 @@ Average: 3 days
 
 ## Tasks  
 >   V1: Week / Chapter 3
-
+1. Add functionality to the user dashboard to display user bookings with all relevant details
+2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. 
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) 
+4. Add a button to allow payment of a booking from the user dashboard. 
 ### + TODO
 >   V1: Week / Chapter 4
-1.
+1. 1. Add functionality to the user dashboard to display user bookings with all relevant details
+2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. 
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) 
+4. Add a button to allow payment of a booking from the user dashboard. 
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
-1.
+1. Add functionality to the user dashboard to display user bookings with all relevant details
+2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. 
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) 
+4. Add a button to allow payment of a booking from the user dashboard. 
 ### + DONE
 >   V1: Week / Chapter 2
-1.
+1. Add functionality to the user dashboard to display user bookings with all relevant details
+2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. 
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) 
+4. Add a button to allow payment of a booking from the user dashboard. 
 
 ## UI Design  
 
