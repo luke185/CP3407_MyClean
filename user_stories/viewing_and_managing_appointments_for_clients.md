@@ -67,9 +67,9 @@ Average: 3 days
 
 
 ## Completion Evidence 
-Tasks 1, 2 & 4. Client dashboard booking summary with cancel and pay now buttons included in the interface. [Tasks 1, 2 & 4](images/iteration2_completion_evidence/Cancel_and_pay_buttons.png)  
-Task 2. Workflow logic to cancel a booking [Task 2](images/iteration2_completion_evidence/workflow_for_cancelling_a_booking.png)  
-Task 3. Workflow logic to return booking slots to the available booking pool [Task 3](images/iteration2_completion_evidence/workflow_for_returning_slots_to_available.png)  
-Task 4. Workflow logic for paying a booking from the user dashboard page [Task 4](images/iteration2_completion_evidence/workflow_for_initiating_payment_on_client_dashboard.png)  
+Tasks 1, 2 & 4. Client dashboard booking summary with cancel and pay now buttons included in the interface. [Tasks 1, 2 & 4](/images/iteration2_completion_evidence/Cancel_and_pay_buttons.png)  
+Task 2. Workflow logic to cancel a booking [Task 2](/images/iteration2_completion_evidence/workflow_for_cancelling_a_booking.png)  
+Task 3. Workflow logic to return booking slots to the available booking pool [Task 3](/images/iteration2_completion_evidence/workflow_for_returning_slots_to_available.png)  
+Task 4. Workflow logic for paying a booking from the user dashboard page [Task 4](/images/iteration2_completion_evidence/workflow_for_initiating_payment_on_client_dashboard.png)  
 
 ---
