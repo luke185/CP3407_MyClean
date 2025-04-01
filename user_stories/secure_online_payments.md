@@ -72,10 +72,10 @@ Average: 4 days (4.2)
 
 
 ## Completion Evidence 
-Task 1. Stripe API dashboard [Task 1](images/iteration2_completion_evidence/MyClean_Stripe_Payment.png)  
-Task 2. Payment Button and Stripe (payment provider) Payment Interface [Task 2](images/iteration2_completion_evidence/Pay_Now_Interface.png) [Task 2](images/iteration2_completion_evidence/MyClean_Stripe_Payment.png)  
-Task 3. Database table showing bookings with price [Task 3](images/iteration2_completion_evidence/Payment_Confirmation_Database.png)  
-Task 4. Payments workflows to generate price on making a booking and to retrieve calculated prices [Task 4](images/iteration2_completion_evidence/PaymentWorkflows.png) [Task 4](images/iteration2_completion_evidence/Price_Calculation.png)  
-Task 5. Database table showing payment confirmation information from payment platform provider. [Task 5](images/iteration2_completion_evidence/Payment_Confirmation_Database.png)  
+Task 1. Stripe API dashboard [Task 1](/images/iteration2_completion_evidence/MyClean_Stripe_Payment.png)  
+Task 2. Payment Button and Stripe (payment provider) Payment Interface [Task 2](/images/iteration2_completion_evidence/Pay_Now_Interface.png) [Task 2](/images/iteration2_completion_evidence/MyClean_Stripe_Payment.png)  
+Task 3. Database table showing bookings with price [Task 3](/images/iteration2_completion_evidence/Payment_Confirmation_Database.png)  
+Task 4. Payments workflows to generate price on making a booking and to retrieve calculated prices [Task 4](/images/iteration2_completion_evidence/PaymentWorkflows.png) [Task 4](/images/iteration2_completion_evidence/Price_Calculation.png)  
+Task 5. Database table showing payment confirmation information from payment platform provider. [Task 5](/images/iteration2_completion_evidence/Payment_Confirmation_Database.png)  
 
 --- 
