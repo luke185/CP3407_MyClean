@@ -44,13 +44,20 @@ Average: 4 days (4.4)
 4. Add a button to cancel a client booking that does not make the slots available again (1 day)  
 ### + TODO
 >   V1: Week / Chapter 4
-1.
+1. Add interface and database logic to allow cleaners to toggle automatic acceptance of bookings 
+2. Add a booking summary to the provided dashboard that includes a bookings status 
+3. Add buttons to accept or reject bookings if automatic acceptance is not toggled on 
+4. Add a button to cancel a client booking that does not make the slots available again  
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
-1. 
+1. Add interface and database logic to allow cleaners to toggle automatic acceptance of bookings (29/03/2025)
+2. Add a booking summary to the provided dashboard that includes a bookings status (31/01/2025)
+3. Add buttons to accept or reject bookings if automatic acceptance is not toggled on
+4. Add a button to cancel a client booking that does not make the slots available again   
 ### + DONE
 >   V1: Week / Chapter 2
-1. 
+1. Add interface and database logic to allow cleaners to toggle automatic acceptance of bookings (30/03/2025)
+
 
 
 ## UI Design  
