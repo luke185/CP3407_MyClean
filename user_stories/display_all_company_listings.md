@@ -63,7 +63,7 @@ Average: 4 days (4.2)
 ## Completion Evidence 
     
   Task 1. Listings table: [Task 1](/images/iteration1_completion_evidence/listing_evidence.png)  
-  Task 2. Availability database: [Task 2](images/iteration1_completion_evidence/availability_database_table.png)  
-  Task 3. Company Availability update page: [Task 3](images/iteration1_completion_evidence/provider_availability_page.png)  
+  Task 2. Availability database: [Task 2](/images/iteration1_completion_evidence/availability_database_table.png)  
+  Task 3. Company Availability update page: [Task 3](/images/iteration1_completion_evidence/provider_availability_page.png)  
 
 ---
