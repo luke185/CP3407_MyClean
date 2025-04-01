@@ -37,9 +37,9 @@ Average: 1 days (1.4)
 
 ## Tasks  
 >   V1: Week / Chapter 3
-1. Add database logic to flag a booking as recurring
-2. Modify slot creation workflow to automatically book slots when there is a slot is flagged for recurring booking
-3. Modify cancellation workflow to include unflagging slots as recurring when a recurring booking is cancelled if the user requests to cancel all future bookings.  
+1. Add database logic to flag a booking as recurring (0.5 days)
+2. Modify slot creation workflow to automatically book slots when there is a slot is flagged for recurring booking (0.5 days)
+3. Modify cancellation workflow to include unflagging slots as recurring when a recurring booking is cancelled if the user requests to cancel all future bookings.   (1 days)
 ### + TODO
 >   V1: Week / Chapter 4
 1. 
