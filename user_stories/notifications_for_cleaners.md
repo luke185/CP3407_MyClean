@@ -39,15 +39,13 @@ Average: 1 days
 
 ## Tasks  
 >   V1: Week / Chapter 3
-1. Add workflow to send an email notification to a provider when a client makes a booking with them.
-2. Add workflow to send an email notification to a provider when a customer cancels a booking with them. 
-3. Add workflow to send an email notification to a provider when a customer pays for a booking with them.
+1. Add workflow to send an email notification to a provider when a client makes or cancels a booking with them. (0.5 days)
+2. Add workflow to send an email notification to a provider when a customer pays for a booking with them. (0.5 days)
 Note: Reschedueling currently involves cancelling and rebooking so is covered by task 1 and 2
 ### + TODO
 >   V1: Week / Chapter 4
-1. Add workflow to send an email notification to a provider when a client makes a booking with them.
-2. Add workflow to send an email notification to a provider when a customer cancels a booking with them. 
-3. Add workflow to send an email notification to a provider when a customer pays for a booking with them.
+1. Add workflow to send an email notification to a provider when a client makes or cancels a booking with them.
+2. Add workflow to send an email notification to a provider when a customer pays for a booking with them.
 Note: Reschedueling currently involves cancelling and rebooking so is covered by task 1 and 2 
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
