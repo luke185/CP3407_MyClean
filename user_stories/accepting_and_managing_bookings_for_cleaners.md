@@ -12,10 +12,10 @@
 ## Estimation:  
 
 >   V1: Week / Chapter 1
-- 4 days
+- 3 days
 
 >   V1: Week / Chapter 3
-- Adjusted for Velocity: 6 days (4 / 0.7 = 5.71)
+- Adjusted for Velocity: 4 days (3 / 0.7 = 4.2)
 
 ### + Planning Poker  
   
@@ -29,7 +29,8 @@ Average: 4 days (4.4)
 
 ### + Assumptions  
 
-- Assuming that bookings shouldn't just be automatically accepted when they are made. 
+- Assuming that bookings shouldn't just be automatically accepted when they are made.
+- Assuming we can easily duplicate the client booking summary interface for providers
 
 ### + Dependencies
 
@@ -37,10 +38,10 @@ Average: 4 days (4.4)
 
 ## Tasks  
 >   V1: Week / Chapter 3
-1. Add interface and database logic to allow cleaners to toggle automatic acceptance of bookings
-2. Add a booking summary to the provided dashboard that includes a bookings status
-3. Add buttons to accept or reject bookings if automatic acceptance is not toggled on
-4. Add a button to cancel a client booking that does not make the slots available again
+1. Add interface and database logic to allow cleaners to toggle automatic acceptance of bookings (1 Day)
+2. Add a booking summary to the provided dashboard that includes a bookings status (0.5 days)
+3. Add buttons to accept or reject bookings if automatic acceptance is not toggled on (0.5 days)
+4. Add a button to cancel a client booking that does not make the slots available again (1 day)  
 ### + TODO
 >   V1: Week / Chapter 4
 1.
