@@ -52,19 +52,21 @@ Average: 4 days (4.4)
 >   V1: Week / Chapter 4
 1. Add interface and database logic to allow cleaners to toggle automatic acceptance of bookings (29/03/2025)
 2. Add a booking summary to the provided dashboard that includes a bookings status (31/01/2025)
-3. Add buttons to accept or reject bookings if automatic acceptance is not toggled on
-4. Add a button to cancel a client booking that does not make the slots available again   
+3. Add buttons to accept or reject bookings if automatic acceptance is not toggled on (01/01/2025)
+4. Add a button to cancel a client booking that does not make the slots available again (01/01/2025)  
 ### + DONE
 >   V1: Week / Chapter 2
 1. Add interface and database logic to allow cleaners to toggle automatic acceptance of bookings (30/03/2025)
-
-
+2. Add a booking summary to the provided dashboard that includes a bookings status (01/01/2025)
+3. Add buttons to accept or cancel bookings if automatic acceptance is not toggled on (01/01/2025)
+4. Add a button to cancel a client booking that does not make the slots available again 
 
 ## UI Design  
 >   V1: Week / Chapter 2
 
 ## Completion Evidence 
-> [!WARNING]
-> TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
+Task 1. Provider setting toggle in dashboard and database with related field [Task 1](images/iteration2_completion_evidence/automatic_acceptance_toggle.png) [Task 1](images/iteration2_completion_evidence/database_table_with_auto_accept_field.png)  
+Task 2 & 3. Booking summary table and accept / cancel buttons [Task 2 & 3](images/iteration2_completion_evidence/provider_view_and_manage_bookings_table.png)  
+Task 4.  
 
 ---
