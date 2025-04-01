@@ -37,7 +37,10 @@ Average: 4 days (4.4)
 
 ## Tasks  
 >   V1: Week / Chapter 3
-
+1. Add interface and database logic to allow cleaners to toggle automatic acceptance of bookings
+2. Add a booking summary to the provided dashboard that includes a bookings status
+3. Add buttons to accept or reject bookings if automatic acceptance is not toggled on
+4. Add a button to cancel a client booking that does not make the slots available again
 ### + TODO
 >   V1: Week / Chapter 4
 1.
