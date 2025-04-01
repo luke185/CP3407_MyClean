@@ -37,10 +37,10 @@ Average: 3 days
 
 ## Tasks  
 >   V1: Week / Chapter 3
-1. Add functionality to the user dashboard to display user bookings with all relevant details
-2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. 
-3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) 
-4. Add a button to allow payment of a booking from the user dashboard. 
+1. Add functionality to the user dashboard to display user bookings with all relevant details (1 day)
+2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. (0.5 days)
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) (1 day)
+4. Add a button to allow payment of a booking from the user dashboard. (0.5 days)
 ### + TODO
 >   V1: Week / Chapter 4
 1. 1. Add functionality to the user dashboard to display user bookings with all relevant details
