@@ -53,7 +53,7 @@ Average: 1 days (1.4)
 >   V1: Week / Chapter 2
 1.
 
-Note: We were delayed completing this user story due to some testing issues.  We needed multiple testers working at the same time to test the functionality compeltely and adequately.  
+Note: We were delayed completing this user story due to some testing issues.  We needed multiple testers working at the same time to test the functionality completely and adequately.  
 
 
 ## UI Design  
