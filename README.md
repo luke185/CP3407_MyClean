@@ -52,7 +52,7 @@ Two 20 day iterations
 
 ---
 
-## Site UML Desings
+## Site UML Diagrams
 
 ### Site Architecture UML Diagram  
 ![](./images/uml_design/CP3407%20Project.png?raw=true)
