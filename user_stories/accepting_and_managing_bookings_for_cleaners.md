@@ -66,7 +66,7 @@ Average: 4 days (4.4)
 
 ## Completion Evidence 
 Task 1. Provider setting toggle in dashboard and database with related field [Task 1](/images/iteration2_completion_evidence/automatic_acceptance_toggle.png) [Task 1](/images/iteration2_completion_evidence/database_table_with_auto_accept_field.png)  
-Task 2 & 3. Booking summary table and accept / cancel buttons [Task 2 & 3](/images/iteration2_completion_evidence/provider_view_and_manage_bookings_table.png)  
+Task 2, 3 & 4. Booking summary table and accept / cancel buttons [Task 2 & 3](/images/iteration2_completion_evidence/provider_view_and_manage_bookings_table.png)  
 Task 4. Workflow for providers to cancel a booking [Task 4](/images/iteration2_completion_evidence/provider_booking_cancelation_workflow.png)  
 
 ---
