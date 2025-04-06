@@ -50,3 +50,13 @@ Two 20 day iterations
 - *Unknown times / dates*
 
 
+---
+
+## Site UML Desings
+
+### Site Architecture UML Diagram  
+![](./images/uml_design/CP3407%20Project.png?raw=true)
+
+### Site ER Diagram  
+![](./images/uml_design/ER_diagram.png?raw=true)
+
