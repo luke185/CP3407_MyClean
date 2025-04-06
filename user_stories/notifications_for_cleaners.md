@@ -49,11 +49,14 @@ Note: Reschedueling currently involves cancelling and rebooking so is covered by
 Note: Reschedueling currently involves cancelling and rebooking so is covered by task 1 and 2 
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
-1. 
+1. Add workflow to send an email notification to a provider when a client makes or cancels a booking with them. (06/04/2025)
+2. Add workflow to send an email notification to a provider when a customer pays for a booking with them. (06/04/2025)
+   
 ### + DONE
 >   V1: Week / Chapter 2
 1.
 
+Note: We were delayed completing this user story due to some testing issues. We needed multiple testers working at the same time to test the functionality completely and adequately.
 
 ## UI Design  
 >   V1: Week / Chapter 2
