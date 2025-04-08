@@ -62,7 +62,5 @@ Average: 4 days (3.6)
 
 
 ## Completion Evidence 
-> [!WARNING]
-> TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
 
----
+![](/images/iteration2_completion_evidence/location_evidence.png) 
