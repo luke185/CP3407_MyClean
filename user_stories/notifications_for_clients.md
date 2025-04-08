@@ -1,12 +1,12 @@
 # Notifications for Clients
 
 ## Description  
-
 >   V1: Week / Chapter 1
 - As a customer, I want to recieve notifications about the status of my appointments including when they are requested, accepted, scheduled, paid, cancelled or rejected. 
 
 ## Priority:  
->   V1: Week / Chapter 1 
+>   V1: Week / Chapter 1
+
 - 20
 
 ## Estimation:  
@@ -15,7 +15,7 @@
 - 1 days
 
 >   V1: Week / Chapter 3
-- Adjusted for Velocity: 2 days (1 / 0.7 = 1.4)
+- Adjusted for Velocity: 2 days (1 / 0.74 = 1.35) (We rounded this up as we had rounded down a lot on other user stories and average planning poker was also rounded down)
   
 ### + Planning Poker  
   
@@ -34,21 +34,23 @@ Average: 1 days (1.4)
 ### + Dependencies
 
 - Customers will need to be able to make bookings
-- Cleaning providers will need to to be able to manage bookings to change their status
-- Cusomters will need to be able to pay for bookings. 
+- Cleaning providers will need to be able to manage bookings to change their status
+- Customers will need to be able to pay for bookings. 
 
 ## Tasks  
 >   V1: Week / Chapter 3
-1. Add workflow to send an email notification when a client makes a booking and the day before a booking occurs. (0.5 days)
-2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider (if not automatic) (0.5 days)
+### + TODO (Pre-velocity)
+>   V1: Week / Chapter 4
+1. Add workflow to send an email notification when a client makes a booking and the day before a booking occurs. (0.5 Days)
+2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider. (if not automatic) (0.5 Days)
 ### + TODO
 >   V1: Week / Chapter 4
-1. Add workflow to send an email notification when a client makes a booking and the day before a booking occurs. 
-2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider (if not automatic) 
+1. Add workflow to send an email notification when a client makes a booking and the day before a booking occurs. (1 Day)
+2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider. (if not automatic) (1 Day)
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
 1. Add workflow to send an email notification when a client makes a booking and the day before a booking occurs. (05/04/2025)
-2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider (if not automatic) (05/04/2025)
+2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider. (if not automatic) (05/04/2025)
 ### + DONE
 >   V1: Week / Chapter 2
 
@@ -64,3 +66,5 @@ Average: 1 days (1.4)
 
 ## Completion Evidence 
 ![](/images/iteration2_completion_evidence/client_notification_evidence.png)
+
+---
