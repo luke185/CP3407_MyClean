@@ -1,12 +1,12 @@
 # Notifications for Cleaners
 
 ## Description  
-
 >   V1: Week / Chapter 1
 - As a cleaning provider I want to recieve notifications when a customer requests, changes, cancels or pays for a booking. 
 
 ## Priority:  
->   V1: Week / Chapter 1 
+>   V1: Week / Chapter 1
+
 - 20
 
 ## Estimation:  
@@ -15,7 +15,7 @@
 - 1 days
 
 >   V1: Week / Chapter 3
-- Adjusted for Velocity: 2 days (1 / 0.7 = 1.4)
+- Adjusted for Velocity: 2 days (1 / 0.74 = 1.35) (We rounded this up as we had rounded down a lot on other user stories)
   
 ### + Planning Poker  
   
@@ -35,18 +35,20 @@ Average: 1 days
 
 - Customers will need to be able to make bookings.
 - Customers will need to be able to manage their bookings.
-- Cusomters will need to be able to pay for bookings. 
+- Customers will need to be able to pay for bookings. 
 
 ## Tasks  
 >   V1: Week / Chapter 3
+### + TODO (Pre-velocity)
+>   V1: Week / Chapter 4
 1. Add workflow to send an email notification to a provider when a client makes or cancels a booking with them. (0.5 days)
 2. Add workflow to send an email notification to a provider when a customer pays for a booking with them. (0.5 days)    
-Note: Reschedueling currently involves cancelling and rebooking so is covered by task 1 and 2
+Note: Rescheduling currently involves cancelling and rebooking is covered by task 1 and 2
 ### + TODO
 >   V1: Week / Chapter 4
-1. Add workflow to send an email notification to a provider when a client makes or cancels a booking with them.
-2. Add workflow to send an email notification to a provider when a customer pays for a booking with them.  
-Note: Reschedueling currently involves cancelling and rebooking so is covered by task 1 and 2 
+1. Add workflow to send an email notification to a provider when a client makes or cancels a booking with them. (1 Day)
+2. Add workflow to send an email notification to a provider when a customer pays for a booking with them. (1 Day)
+Note: Rescheduling currently involves cancelling and rebooking is covered by task 1 and 2 
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
 1. Add workflow to send an email notification to a provider when a client makes or cancels a booking with them. (06/04/2025)
@@ -67,3 +69,5 @@ Note: Reschedueling currently involves cancelling and rebooking so is covered by
 
 ![](/images/iteration2_completion_evidence/client_notification_evidence_1.png)
 ![](/images/iteration2_completion_evidence/client_notification_evidence_2.png)
+
+---
