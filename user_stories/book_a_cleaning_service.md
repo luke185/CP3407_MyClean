@@ -16,7 +16,7 @@
 - 4 days
 
 >   V1: Week / Chapter 3
-- Adjusted for Velocity: 6 days (4 / 0.7 = 5.71)
+- Adjusted for Velocity: 5 days (4 / 0.7 = 5.71) (We rounded this down as we had rounded up a lot on other user stories)
 
 ### + Planning Poker  
   
