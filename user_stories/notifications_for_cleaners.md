@@ -64,7 +64,6 @@ Note: Reschedueling currently involves cancelling and rebooking so is covered by
 
 
 ## Completion Evidence 
-> [!WARNING]
-> TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
 
----
+![](/images/iteration2_completion_evidence/client_notification_evidence_1.png)
+![](/images/iteration2_completion_evidence/client_notification_evidence_2.png)
