@@ -37,16 +37,20 @@ Average: 4 days (3.6)
 
 ## Tasks  
 >   V1: Week / Chapter 3
-1. Add database logic and GUI elements to collect and store client’s and provider’s addresses and a seperate ‘City’. 
+1. Add database logic and GUI elements to collect and store client’s and provider’s addresses and a seperate ‘City’ for booking filtering. 
 2. Add a user’s address details to a user’s booking when it is created, and send them to the provider. 
 3. Modify provider listing filtering to filter by ‘City’ to ensure providers are nearby. 
 
 ### + TODO
 >   V1: Week / Chapter 4
-1. 
+1. Add database logic and GUI elements to collect and store client’s and provider’s addresses and a seperate ‘City’ for booking filtering.
+2. Add a user’s address details to a user’s booking when it is created, and send them to the provider. 
+3. Modify provider listing filtering to filter by ‘City’ to ensure providers are nearby. 
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
-1.
+1. Add database logic and GUI elements to collect and store client’s and provider’s addresses and a seperate ‘City’ for booking filtering. (08/04/2025)
+2. Add a user’s address details to a user’s booking when it is created, and send them to the provider. 
+3. Modify provider listing filtering to filter by ‘City’ to ensure providers are nearby. 
 ### + DONE
 >   V1: Week / Chapter 2
 1.
