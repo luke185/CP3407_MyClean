@@ -51,9 +51,11 @@ Average: 1 days (1.4)
 2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider (if not automatic) (05/04/2025)
 ### + DONE
 >   V1: Week / Chapter 2
-1.
 
-Note: We were delayed completing this user story due to some testing issues.  We needed multiple testers working at the same time to test the functionality completely and adequately.  
+*Note: We were delayed completing this user story due to some testing issues.  We needed multiple testers working at the same time to test the functionality completely and adequately.*
+
+1. Add workflow to send an email notification when a client makes a booking and the day before a booking occurs. (07/04/2025)
+2. Add workflow to send an email notification when a client booking is confirmed or cancelled by a provider (if not automatic) (07/04/2025)
 
 
 ## UI Design  
