@@ -37,7 +37,10 @@ Average: 3 days
 
 ## Tasks  
 >   V1: Week / Chapter 3
-
+### + TODO (Pre-velocity)
+>   V1: Week / Chapter 4
+1. ***Need to finish other company listing user story, before starting this one***
+2. Add filter option to company listing page (3 days)
 ### + TODO
 >   V1: Week / Chapter 4
 1. ***Need to finish other company listing user story, before starting this one***
