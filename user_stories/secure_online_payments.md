@@ -1,15 +1,13 @@
 # Secure Online Payments
 
 ## Description  
-
 >   V1: Week / Chapter 1 
 - As a customer, I want to securely pay for my cleaning service through the app, so I don’t have to handle cash transactions 
 
 ## Priority:  
+>   V1: Week / Chapter 1
 
->   V1: Week / Chapter 1 
 - 10
-
 
 ## Estimation:  
 
@@ -17,7 +15,7 @@
 - 4 days  
 
 >   V1: Week / Chapter 3
-- Adjusted for Velocity: 6 days (4 / 0.7 = 5.71)
+- Adjusted for Velocity: 5 days (4 / 0.74 = 5.4)
   
 ### + Planning Poker  
 
@@ -33,22 +31,26 @@ Average: 4 days (4.2)
 
 - Payment services generally provide high quality APIs.
 
-
 ### + Dependencies
 
 - Will need to have booking system functional before this feature can be added
 
 ## Tasks  
 >   V1: Week / Chapter 3
-
-   
+### + TODO (Pre-velocity)
+>   V1: Week / Chapter 4
+1. Register with payment services provider and generate required API information (0.5 Days)
+2. Build payment interface (1 Day)
+3. Implement logic to calculate and store booking price in booking database records (1.5 Days)
+4. Link payment interface with bookings in database to retrieve prices for payment (0.5 Days)
+5. Retrieve payment confirmation information from API to update booking payment status in database (0.5 Days)  
 ### + TODO
 >   V1: Week / Chapter 4
-1. Register with payment services provider and generate required API information (0.5 day)
-2. Build payment interface (1 day)
-3. Implement logic to calculate and store booking price in booking database records (1.5 days)
-4. Link payment interface with bookings in database to retrieve prices for payment (0.5 days)
-5. Retrieve payment confirmation information from API to update booking payment status in database (0.5 days)
+1. Register with payment services provider and generate required API information (0.5 Days)
+2. Build payment interface (1.5 Days)
+3. Implement logic to calculate and store booking price in booking database records (2 Days)
+4. Link payment interface with bookings in database to retrieve prices for payment (0.5 Days)
+5. Retrieve payment confirmation information from API to update booking payment status in database (0.5 Days)
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
 1. Register with payment services provider and generate required API information (18/03/2025)
