@@ -61,5 +61,4 @@ Note: We were delayed completing this user story due to some testing issues.  We
 
 
 ## Completion Evidence 
-> [!WARNING]
-> TODO: ADD COMPLETION EVIDENCE WHEN FINISHED
+![](/images/iteration2_completion_evidence/client_notification_evidence.png)
