@@ -20,12 +20,12 @@
 ### + Planning Poker  
   
 - Luke: 3
-- Zane: 4
+- Zane: 3
 - Corey: 4
-- Dylan: 5
-- Caleb: 4
+- Dylan: 4
+- Caleb: 3
 
-Average: 4 days
+Average: 3 days
 
 ### + Assumptions  
 
