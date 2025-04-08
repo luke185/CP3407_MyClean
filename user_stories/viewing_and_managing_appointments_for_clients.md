@@ -1,4 +1,4 @@
- # Viewing and Managing Appointments for Clients
+# Viewing and Managing Appointments for Clients
 
 ## Description  
 >   V1: Week / Chapter 1 
@@ -15,7 +15,7 @@
 - 3 days
 
 >   V1: Week / Chapter 3
-- Adjusted for Velocity: 4 days (3 / 0.7 = 4.2)
+- Adjusted for Velocity: 4 days (3 / 0.74 = 4.05)
   
 ### + Planning Poker  
   
@@ -37,27 +37,29 @@ Average: 3 days
 
 ## Tasks  
 >   V1: Week / Chapter 3
-1. Add functionality to the user dashboard to display user bookings with all relevant details (1 day)
-2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. (0.5 days)
-3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) (1 day)
-4. Add a button to allow payment of a booking from the user dashboard. (0.5 days)
+### + TODO (Pre-velocity)
+>   V1: Week / Chapter 4
+1. Add functionality to the user dashboard to display user bookings with all relevant details. (1 Day)
+2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. (0.5 Days)
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling and rebooking provides rescheduling functionality) (1 Day)
+4. Add a button to allow payment of a booking from the user dashboard. (0.5 Days)
 ### + TODO
 >   V1: Week / Chapter 4
-1. Add functionality to the user dashboard to display user bookings with all relevant details
-2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. 
-3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) 
-4. Add a button to allow payment of a booking from the user dashboard. 
+1. Add functionality to the user dashboard to display user bookings with all relevant details. (1.5 Day)
+2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. (0.5 Day)
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling and rebooking provides rescheduling functionality) (1.5 Day)
+4. Add a button to allow payment of a booking from the user dashboard. (0.5 Day)
 ### + IN PROGRESS 
 >   V1: Week / Chapter 4
-1. Add functionality to the user dashboard to display user bookings with all relevant details (24/03/2025)
+1. Add functionality to the user dashboard to display user bookings with all relevant details. (24/03/2025)
 2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. (24/03/2025)
-3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) (25/05/2025)
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling and rebooking provides rescheduling functionality) (25/05/2025)
 4. Add a button to allow payment of a booking from the user dashboard. (27/05/2025)
 ### + DONE
 >   V1: Week / Chapter 2
 1. Add functionality to the user dashboard to display user bookings with all relevant details (24/03/2025)
 2. Add a cancel button to each booking displayed in the dashboard that cancels the relevant booking. (25/03/2025)
-3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling an rebooking provides reschedueing functionality) (26/05/2025)
+3. Add database management logic so that when a booking is cancelled, the booked slots are freed up and returned to the pool of available bookings. (Allowing cancelling and rebooking provides rescheduling functionality) (26/05/2025)
 4. Add a button to allow payment of a booking from the user dashboard. (28/05/2025)
 
 ## UI Design  
