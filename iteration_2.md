@@ -32,7 +32,7 @@
 - V2 = 0.74
 
 >V2: Week / Chapter 3
-**Team Velocity:** 0.7 (Recommended velocity using the velocity calculation formula following a completed iteration)
+**Team Velocity:** 0.74 (Velocity calculated from previous iteration)
 #### User Stories (Adjusted for Velocity)
 - [Secure Online Payments](user_stories/secure_online_payments.md) (10) (5 Days) (Moved to iteration 2 from iteration 1 after velocity adjustments)
 - [Viewing and Managing Appointments for Clients](user_stories/viewing_and_managing_appointments_for_clients.md) (20) (4 Days)
