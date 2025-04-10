@@ -49,5 +49,8 @@
 - Total: 17 Days
 - Total: 22 Days (Following addition of new user story)
 
----
+### Burndown Chart
+![image](https://github.com/user-attachments/assets/ea733332-21eb-4e93-9a9d-dda36043086e)
 
+---
+---
