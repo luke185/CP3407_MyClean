@@ -63,6 +63,7 @@ Note: Rescheduling currently involves cancelling and rebooking is covered by tas
 
 ## UI Design  
 >   V1: Week / Chapter 2
+> Notification for Cleaners [Image](images/ui_design/Notifications_for_Cleaners.png)
 
 
 ## Completion Evidence 
