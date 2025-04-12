@@ -65,6 +65,7 @@ Average: 4 days (4.4)
 
 ## UI Design  
 >   V1: Week / Chapter 2
+> Accepting and Managing Bookings for Cleaners Wireframe  [Image](/images/ui_design/Accepting_and_Managing_Bookings_for_Cleaners_Wireframe.png)
 
 ## Completion Evidence 
 Task 1. Provider setting toggle in dashboard and database with related field [Task 1](/images/iteration2_completion_evidence/automatic_acceptance_toggle.png) [Task 1](/images/iteration2_completion_evidence/database_table_with_auto_accept_field.png)  
