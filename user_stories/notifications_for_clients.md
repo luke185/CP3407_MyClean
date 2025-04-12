@@ -62,7 +62,7 @@ Average: 1 days (1.4)
 
 ## UI Design  
 >   V1: Week / Chapter 2
-> Notifications for Client Wire frame [Image](/images/ui_design/Notifications for Customers.png)
+> Notification for Clients Wireframe [Image](/images/ui_design/Notifications_for_Customers.png)
 
 
 ## Completion Evidence 
